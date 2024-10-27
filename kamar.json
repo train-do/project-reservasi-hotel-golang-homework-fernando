@@ -1,0 +1,32 @@
+[
+  {
+    "noKamar": "701",
+    "price": 1000000,
+    "type": "Single Room"
+  },
+  {
+    "noKamar": "702",
+    "price": 2000000,
+    "type": "Double Room"
+  },
+  {
+    "noKamar": "703",
+    "price": 4000000,
+    "type": "Connecting Room"
+  },
+  {
+    "noKamar": "704",
+    "price": 8000000,
+    "type": "Family Room"
+  },
+  {
+    "noKamar": "705",
+    "price": 10000000,
+    "type": "Suite Room"
+  },
+  {
+    "noKamar": "706",
+    "price": 100000000,
+    "type": "Presidential Suite"
+  }
+]
